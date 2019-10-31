@@ -9,7 +9,7 @@ https://askubuntu.com/questions/1087328/lubuntu-18-10-how-to-activate-tap-to-cli
 ```
 
 # Requirements
-Tested on Lubuntu 19.04.
+Tested on Lubuntu 19.1 eoan.
 ```
 - Python 3.7.4
 - Distributor ID: Ubuntu
